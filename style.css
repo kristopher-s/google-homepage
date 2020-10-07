@@ -1,0 +1,28 @@
+#logo img, #search-field input, #info p {
+    margin: auto;
+    width: 50%;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+#info p {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    margin: auto;
+}
+
+#button button {
+    height: 40px;
+    display: inline;
+}
+
+#search-field input {
+    height: 30px;
+    border-radius: 10px;
+    border-width: 1px;
+}
